@@ -1,0 +1,11 @@
+tensorflow>=2.16
+opencv-python
+mtcnn
+scikit-learn
+pandas
+matplotlib
+seaborn
+gradio
+fastapi
+uvicorn
+tqdm

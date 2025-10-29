@@ -1,0 +1,65 @@
+# ===========================
+# Python & Environment
+# ===========================
+__pycache__/
+*.py[cod]
+*.so
+.env/
+.venv/
+venv/
+env/
+*.log
+*.tmp
+*.swp
+
+# ===========================
+# Jupyter Notebook
+# ===========================
+.ipynb_checkpoints/
+*.ipynb~
+*.nbconvert.ipynb
+
+# ===========================
+# Datasets & Outputs
+# ===========================
+dataset/
+data/
+logs/
+outputs/
+results/
+fit/
+train/
+validation/
+Test/
+Train/
+Validation/
+
+# ===========================
+# Model files / weights
+# ===========================
+models/
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.pb
+*.tflite
+
+# ===========================
+# IDE / System files
+# ===========================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ===========================
+# Temporary / cache folders
+# ===========================
+__MACOSX/
+tmp/
+cache/
+wandb/
+runs/
